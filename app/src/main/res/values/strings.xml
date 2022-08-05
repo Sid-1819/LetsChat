@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Let\'s Chat</string>
+    <string name="by_siddhesh_shirdhankar">By Siddhesh Shirdhankar</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="sid">Sid</string>
+    <string name="message">Message</string>
+    <string name="this_is_sent_message">This is sent message</string>
+    <string name="this_is_received_message">this_is_received_message</string>
+    <string name="messagetyping">Message...</string>
+    <string name="title">Title</string>
+
+</resources>
